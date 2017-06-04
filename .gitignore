@@ -1,2 +1,4 @@
 
 lego-ev3/.idea
+
+*.pyc
